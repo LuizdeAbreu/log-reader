@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-df = pd.read_csv('../data/welldata.csv')
+df = pd.read_csv('welldata.csv')
 df.head()
 
 df['BS'] = 6
