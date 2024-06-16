@@ -1,13 +1,13 @@
-# WellLog Viewer and Analyzer
+## WellLog Viewer and Analyzer
 
 Esse projeto mira facilitar a leitura, visualização e análise de dados de perfis poços de petróleo.
 De forma geral, softwares com esse objetivo não são gratuitos ou abertos ao público.
 Dessa forma, trata-se de uma contribuição àqueles que buscam:
 
-    Identificação de Zonas Produtivas: Determinação das camadas que contêm hidrocarbonetos e a avaliação de sua saturação e qualidade.
-    Caracterização das Formações: Análise das propriedades petrofísicas das rochas, como porosidade, permeabilidade e conteúdo mineral.
-    Avaliação da Saturação de Fluídos: Medição da quantidade de água, óleo e gás presentes nos poros das rochas.
-    Monitoramento da Produção: Acompanhamento das mudanças no reservatório ao longo do tempo para otimizar a produção.
+- Identificação de Zonas Produtivas: Determinação das camadas que contêm hidrocarbonetos e a avaliação de sua saturação e qualidade.
+- Caracterização das Formações: Análise das propriedades petrofísicas das rochas, como porosidade, permeabilidade e conteúdo mineral.
+- Avaliação da Saturação de Fluídos: Medição da quantidade de água, óleo e gás presentes nos poros das rochas.
+- Monitoramento da Produção: Acompanhamento das mudanças no reservatório ao longo do tempo para otimizar a produção.
 
 ## Projeto Final de Programacao
 Aluno: Luiz de Abreu Henriques Neto
