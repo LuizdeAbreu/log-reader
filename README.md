@@ -10,6 +10,8 @@ Dessa forma, trata-se de uma contribuição àqueles que buscam, com a ajuda de 
 - Monitorar Produção: Acompanhar mudanças no reservatório ao longo do tempo para otimizar a produção.
 
 ## Projeto Final de Programação 2024.1
+### Coordenadora: Profª. Clarisse Sieckenius de Souza
+
 Aluno: Luiz de Abreu Henriques Neto
 
 Matrícula: 2312737
